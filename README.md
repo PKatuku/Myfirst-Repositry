@@ -10,5 +10,3 @@ You can Order the Food by sending a message and there will be a prompt with sayi
 In the next step you'll recieve some options of Food You'd like
 At the end you'll recieve the total Order placed and The total amount of Order with taxes and the Delivery Details will be displayed
 Thank you
-
-Test Deployement
